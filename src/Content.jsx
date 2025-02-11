@@ -10,7 +10,7 @@ function Content(){
     <div className='list-div' >
         <div className='Project'><p>Project</p></div>
         <div className='Skill'><p>Skill</p></div>
-        <div className='Contact'><p>Contac</p>t</div>
+        <div className='Contact'><p>Contact</p>t</div>
     </div>
     </div>
     
