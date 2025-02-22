@@ -12,8 +12,6 @@
     /* background-color: bisque; */
 }
 a{
-    display: flex;
-    gap: 30%;
     text-decoration: none;
 }
 .logo{
@@ -22,8 +20,13 @@ a{
 }
 .div-a{
     display: flex;
-    gap: 20%;
+    justify-content: end;
+    align-items: end;
+    gap: 25px;
 }
+/* .div-a :hover{
+    display: block;
+} */
 /* ----------------content---------------- */
 .Content{
     display: flex;
