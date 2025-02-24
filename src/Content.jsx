@@ -1,7 +1,7 @@
 import './Style.css'
 function Content(){
     return (<div className='Content'>
-        <img className='personal-img' src="photo.jpg" alt="" />
+        <img className='personal-img' src="src/prof_img.jpeg" alt="" />
         <div>
     <h1 className="heading">About Me</h1>
     <h3>Preeti : web Developer</h3>
@@ -10,7 +10,7 @@ function Content(){
     <div className='list-div' >
         <div className='Project'><p>Project</p></div>
         <div className='Skill'><p>Skill</p></div>
-        <div className='Contact'><p>Contact</p>t</div>
+        <div className='Contact'><p>Contact</p></div>
     </div>
     </div>
     
